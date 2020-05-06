@@ -1,5 +1,6 @@
 public class gitTest{
 	public static void main(String[] args){
 		system.out.println("Get busy living or get busy dying");
+		system.out.println("Hope is the best in this world!");
 		}
 }
