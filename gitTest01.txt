@@ -3,5 +3,6 @@ public class gitTest{
 		system.out.println("Get busy living or get busy dying");
 		system.out.println("Hope is the best in this world");
 		system.out.println("stay hungry,stay foolish");
+		版本冲突，我这边先提交的;
 		}
 }
